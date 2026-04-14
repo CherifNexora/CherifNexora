@@ -1,95 +1,102 @@
 <h1 align="center">Hi 👋, I'm Cherif Anouar</h1>
-<h3 align="center">⚡ Electromechanical Technician | Python Developer | Computer Vision & Embedded Systems</h3>
+<h3 align="center">⚡ Embedded Systems | IoT | Computer Vision Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Industrial+Automation+Enthusiast;Computer+Vision+with+OpenCV;ESP32+%2B+IoT+Developer;Building+Smart+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Embedded+Systems+Developer;ESP32+%2B+IoT+Engineer;Computer+Vision+with+OpenCV;Building+Smart+Industrial+Systems" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔧 Electromechanics background  
-- 🐍 Python for automation & data systems  
-- 🤖 Arduino & ESP32 developer  
-- 👁️ Computer Vision with OpenCV  
-- 🏭 Focused on industrial & smart monitoring systems  
-- 🌍 Future: International tech & industrial projects  
+- 🔧 Skilled in **Embedded Systems & Electronics**
+- 📡 Working with **IoT systems (ESP32 / Arduino)**
+- 👁️ Building **Computer Vision & AI systems**
+- 🐍 Using Python for automation & data processing
+- ⚙️ Developing real-world **industrial & smart monitoring systems**
+- 🌍 Goal: Contribute to international tech & industrial projects
 
 ---
 
 ## 🧠 Tech Stack
 
-### 💻 Programming
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp" />
-</p>
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)
+
+---
 
 ### 👁️ Computer Vision
-<p>
-<img src="https://skillicons.dev/icons?i=opencv" />
-</p>
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV)
 
 - Real-time video processing  
 - Object detection & motion analysis  
-- Image preprocessing & contour detection  
-- Vision-based industrial monitoring  
+- Image preprocessing (filtering, edge detection)  
+- Vision-based monitoring systems  
 
 ---
 
-### ⚙️ Embedded Systems
-<p>
-<img src="https://skillicons.dev/icons?i=arduino" />
-</p>
+### ⚙️ Embedded Systems & IoT
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
+![ESP32](https://img.shields.io/badge/-ESP32-000)
 
-- ESP32 & Arduino systems  
 - Sensor integration  
 - Real-time data acquisition  
-- IoT-based automation  
+- IoT communication systems  
+- Smart automation  
 
 ---
 
-### 🛠 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux" />
-</p>
-
-- PlatformIO development environment  
-- Version control & collaboration  
+### 🛠 Tools & Environment
+![VS Code](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode)
+![PlatformIO](https://img.shields.io/badge/-PlatformIO-000)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
 ---
 
 ## 🚧 Projects
 
-### 👁️ Vision-Based Industrial Inspection System
-- Real-time object detection using OpenCV  
-- Shape & position verification  
-- Quality control decision system (OK / NOT OK)  
+### 👁️ Computer Vision & AI
 
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV)
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-000)
+
+- Real-time video processing  
+- AI-based detection & tracking  
+- Image preprocessing (filtering, edge detection)  
+- Human pose & hand tracking (MediaPipe)  
+- Vision-based intelligent systems  
+
+📌 Application focus:
+- Smart monitoring systems  
+- Human-machine interaction  
+- Industrial vision applications  
 ---
 
-### 🔧 Smart Monitoring System (ESP32 + Python)
+### 🔧 Embedded IoT System (ESP32)
 - Sensor data acquisition  
-- Real-time visualization dashboard  
-- Industrial system simulation  
+- Real-time communication  
+- IoT-based automation system  
 
 ---
 
-### 📊 Data Automation & Dashboard
-- Data scraping & processing  
-- Visualization tools  
+### 📊 Smart Dashboard (Python)
+- Data visualization  
 - Monitoring interface  
+- Real-time system analysis  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -97,10 +104,10 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://linkedin.com/in/YOUR-LINK">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/YOUR-USERNAME">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
@@ -110,12 +117,12 @@
 ## 🚀 Vision
 
 <p align="center">
-💡 Building intelligent systems that connect <b>vision, sensors, and automation</b><br>
+💡 Building intelligent systems that combine <b>vision, IoT, and embedded systems</b><br>
 to solve real industrial problems.
 </p>
 
 ---
 
 <p align="center">
-🔥 Always learning | Always building | Always improving
+🔥 Always building | Always learning | Future Industrial Engineer
 </p>
