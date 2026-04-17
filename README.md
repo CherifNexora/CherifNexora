@@ -115,24 +115,14 @@ class Engineer:
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=0066FF&text_color=ffffff&ring_color=00F7FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=ffffff" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&background=00000000&stroke=00F7FF&ring=0066FF&fire=00F7FF&currStreakLabel=00F7FF" />
-</div>
 
 ---
 
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  
   </a>
   &nbsp;
   <a href="https://github.com/YOUR-USERNAME">
