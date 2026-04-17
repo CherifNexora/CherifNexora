@@ -1,128 +1,163 @@
-<h1 align="center">Hi 👋, I'm Cherif Anouar</h1>
-<h3 align="center">⚡ Embedded Systems | IoT | Computer Vision Engineer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Embedded+Systems+Developer;ESP32+%2B+IoT+Engineer;Computer+Vision+with+OpenCV;Building+Smart+Industrial+Systems" />
-</p>
+<!-- Animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=200&section=header&text=Cherif%20Anouar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Computer%20Vision&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Developer;ESP32+%2B+IoT+Engineer;Computer+Vision+%26+AI+Engineer;Building+Smart+Industrial+Systems" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile views & social badges -->
+<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=0066FF&label=PROFILE+VIEWS" />
+&nbsp;
+<a href="https://linkedin.com/in/YOUR-LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/YOUR-USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## ⚡ About Me
 
-- 🔧 Skilled in **Embedded Systems & Electronics**
-- 📡 Working with **IoT systems (ESP32 / Arduino)**
-- 👁️ Building **Computer Vision & AI systems**
-- 🐍 Using Python for automation & data processing
-- ⚙️ Developing real-world **industrial & smart monitoring systems**
-- 🌍 Goal: Contribute to international tech & industrial projects
+```python
+class Engineer:
+    name       = "Cherif Anouar"
+    focus      = ["Embedded Systems", "IoT", "Computer Vision"]
+    languages  = ["Python", "C++"]
+    hardware   = ["ESP32", "Arduino"]
+    frameworks = ["OpenCV", "MediaPipe", "PyTorch"]
+    goal       = "Build intelligent systems for real industrial challenges"
+    status     = "Always building 🔥 | Always learning 📚"
+```
 
 ---
 
 ## 🧠 Tech Stack
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)
+<div align="center">
 
----
-
-### 👁️ Computer Vision
-![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV)
-
-- Real-time video processing  
-- Object detection & motion analysis  
-- Image preprocessing (filtering, edge detection)  
-- Vision-based monitoring systems  
-
----
-
-### ⚙️ Embedded Systems & IoT
-![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
-![ESP32](https://img.shields.io/badge/-ESP32-000)
-
-- Sensor integration  
-- Real-time data acquisition  
-- IoT communication systems  
-- Smart automation  
-
----
-
-### 🛠 Tools & Environment
-![VS Code](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode)
-![PlatformIO](https://img.shields.io/badge/-PlatformIO-000)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-
----
-
-## 🚧 Projects
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00F7FF)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00F7FF)
 
 ### 👁️ Computer Vision & AI
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=00F7FF)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-000000?style=for-the-badge&logo=google&logoColor=00F7FF)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![YOLO](https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=yolo&logoColor=00F7FF)
 
-![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV)
-![MediaPipe](https://img.shields.io/badge/-MediaPipe-000)
+### ⚙️ Embedded & IoT
+![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=00F7FF)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=E7352C)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-000000?style=for-the-badge&logo=platformio&logoColor=F5822A)
 
-- Real-time video processing  
-- AI-based detection & tracking  
-- Image preprocessing (filtering, edge detection)  
-- Human pose & hand tracking (MediaPipe)  
-- Vision-based intelligent systems  
+### 🛠️ Tools & Environment
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
 
-📌 Application focus:
-- Smart monitoring systems  
-- Human-machine interaction  
-- Industrial vision applications  
----
-
-### 🔧 Embedded IoT System (ESP32)
-- Sensor data acquisition  
-- Real-time communication  
-- IoT-based automation system  
+</div>
 
 ---
 
-### 📊 Smart Dashboard (Python)
-- Data visualization  
-- Monitoring interface  
-- Real-time system analysis  
+## 🚧 Featured Projects
+
+<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">👁️ Computer Vision System</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/OpenCV-000?style=flat-square&logo=opencv&logoColor=00F7FF" />
+        <img src="https://img.shields.io/badge/MediaPipe-000?style=flat-square&logo=google&logoColor=00F7FF" />
+        <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=00F7FF" />
+      </p>
+      <p>Real-time object detection, human pose & hand tracking, vision-based industrial monitoring systems.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔧 Embedded IoT System (ESP32)</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/ESP32-000?style=flat-square&logo=espressif&logoColor=E7352C" />
+        <img src="https://img.shields.io/badge/Arduino-000?style=flat-square&logo=arduino&logoColor=00F7FF" />
+        <img src="https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus&logoColor=00F7FF" />
+      </p>
+      <p>Sensor data acquisition, IoT communication, real-time automation and smart monitoring.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Smart Dashboard (Python)</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=00F7FF" />
+      </p>
+      <p>Data visualization, real-time system monitoring interface and analytics.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏭 Industrial Vision Application</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/YOLO-000?style=flat-square&logo=yolo&logoColor=00F7FF" />
+        <img src="https://img.shields.io/badge/OpenCV-000?style=flat-square&logo=opencv&logoColor=00F7FF" />
+      </p>
+      <p>AI-based detection for smart manufacturing — human-machine interaction and quality control.</p>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=0066FF&text_color=ffffff&ring_color=00F7FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=ffffff" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&background=00000000&stroke=00F7FF&ring=0066FF&fire=00F7FF&currStreakLabel=00F7FF" />
+</div>
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://github.com/YOUR-USERNAME">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
+</div>
 
 ---
 
-## 🚀 Vision
+## 🎯 Vision
 
-<p align="center">
-💡 Building intelligent systems that combine <b>vision, IoT, and embedded systems</b><br>
-to solve real industrial problems.
-</p>
+<div align="center">
 
----
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   💡 Building intelligent systems that merge             ║
+║      Vision · IoT · Embedded Systems                     ║
+║      to solve real industrial challenges.                ║
+║                                                          ║
+║   🔥 Always Building  |  📚 Always Learning              ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-🔥 Always building | Always learning | Future Industrial Engineer
-</p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00F7FF&height=100&section=footer" width="100%"/>
