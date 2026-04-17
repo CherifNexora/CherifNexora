@@ -9,12 +9,6 @@
 </a>
 
 <br/>
-
-<!-- Profile views & social badges -->
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=0066FF&label=PROFILE+VIEWS" />
-&nbsp;
-<a href="https://linkedin.com/in/YOUR-LINK">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/YOUR-USERNAME">
